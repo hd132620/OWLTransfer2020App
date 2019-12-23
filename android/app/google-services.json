@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509824295449",
+    "firebase_url": "https://owltransfer2020.firebaseio.com",
+    "project_id": "owltransfer2020",
+    "storage_bucket": "owltransfer2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509824295449:android:773eb532f88174264f0088",
+        "android_client_info": {
+          "package_name": "com.owltransfer2020app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509824295449-kdj5cb42vfk3mjkdllqhui41pgsakido.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwDFJTV0RGhZJfOFVRWl4TH2awN9Y_UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509824295449-kdj5cb42vfk3mjkdllqhui41pgsakido.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
